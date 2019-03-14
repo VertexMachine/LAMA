@@ -12,3 +12,5 @@ This project is released under MIT licence, but please note that I've learned mo
 - RATSGAME youtube tutorials showed me how to join both manual and automatic paiting of terrain https://www.youtube.com/playlist?list=PL2G_ecHWhZBmEQih1qfe4yIzY49tKxST6
 
 **Textures are CC0** from https://texturehaven.com/. Really excellent stuff, go there for high resolution ones. And if you are able to support Rob - do so :)
+
+FakeWater is based on excelent tutorial by Andrew Hurley https://wiki.unrealengine.com/Water_Shader_Tutorial (largely simplified it, it is just a place holder :) ).

@@ -2,6 +2,8 @@
 
 I've created simple automaterial for landscape painting based on slope and height and which allows for manual painting as well. I've tried to make it easy to extend and modify in the future so I've divided the material between multiple material functions: set of functions for layers, set of functions for auto-paiting layers and a set of helper function that make it happen.
 
+Preffered contact with me about LAMA: via UE thread https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1594589-free-landscape-automaterial-with-manual-painting
+
 # Current features
 - manual & automatic painting 
 - 4 textures for manual painting and 4 textures for automatic painting (extensible to more)

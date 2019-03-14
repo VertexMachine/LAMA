@@ -1,4 +1,4 @@
-"# LAMA" - Landscape AutoMaterial with manual pAinting 
+# LAMA - Landscape AutoMaterial with manual pAinting 
 
 I've created simple automaterial for landscape painting based on slope and height and which allows for manual painting as well. I've tried to make it easy to extend and modify in the future so I've divided the material between multiple material functions: set of functions for layers, set of functions for auto-paiting layers and a set of helper function that make it happen.
 
